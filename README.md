@@ -9,6 +9,11 @@
     <strong>LSB (Least Significant Bit) steganography</strong> and <strong>AES password encryption</strong>.
   </p>
 
+  <div class="section">
+    <h2>▶️ Launch App 🚀</h2>
+    <p>Link : https://[newsverifier-subhadeep.streamlit.app](https://invisinote.streamlit.app/)/</p>
+  </div>
+
   <h2>🚀 Features</h2>
   <ul>
     <li>📤 Upload an image and embed a message securely inside it.</li>
