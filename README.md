@@ -11,7 +11,7 @@
 
   <div class="section">
     <h2>▶️ Launch App 🚀</h2>
-    <p>Link : https://[newsverifier-subhadeep.streamlit.app](https://invisinote.streamlit.app/)/</p>
+    <p>Link : https://invisinote.streamlit.app/</p>
   </div>
 
   <h2>🚀 Features</h2>
