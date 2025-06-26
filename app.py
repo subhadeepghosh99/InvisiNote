@@ -45,7 +45,7 @@ def encode_image(image, message):
         raise ValueError("Message is too long for this image.")
 
     for i in range(len(binary_message)):
-        flat_data[i] = (flat_data[i] & ~1) | int(binary_message[i])
+        flat_data[i] = (flat_data[i] & 254) | int(binary_message[i])
 
     encoded_data = flat_data.reshape(data.shape)
     encoded_img = Image.fromarray(encoded_data.astype('uint8'), 'RGB')
