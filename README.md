@@ -11,7 +11,7 @@
 
   <div class="section">
     <h2>▶️ Launch App 🚀</h2>
-    <p>Link : https://invisinote.streamlit.app/</p>
+    <p>Link : https://invisinote.streamlit.app</p>
   </div>
 
   <h2>🚀 Features</h2>
@@ -73,8 +73,19 @@ pycryptodome</code></pre>
   <h2>🧪 Run the App Locally</h2>
   <pre><code>streamlit run app.py</code></pre>
 
-  <h2>🌐 Deployment</h2>
-  <p>You can deploy the app using <a href="https://streamlit.io/cloud" target="_blank">Streamlit Cloud</a> by pushing your code and requirements.txt to GitHub.</p>
+   <div class="section">
+    <h2>👨‍💻 Developer</h2>
+    <p>Project by Subhadeep Ghosh.<br>
+    For contributions or issues, feel free to contact.</p>
+  </div>
 
+  <div class="section">
+    <h2>📌 Disclaimer</h2>
+    <p>
+      This project is developed solely for educational and research purposes.
+      It is not intended for production use or to serve as a definitive fact-checking tool.
+      The predictions made by the model may not always be accurate, and users are encouraged to verify news from official and reliable sources only.
+    </p>
+  </div>
 </body>
 </html>
