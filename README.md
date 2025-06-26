@@ -24,6 +24,19 @@
     <li>✅ Works with PNG, JPG, JPEG, and BMP formats.</li>
   </ul>
 
+   <div class="section">
+    <h2>🖼️ Screenshots</h2>
+  <h3>🔹 Home Page</h3>
+<img src="Screenshot1.png" width="1000">
+
+<h3>🔹 Real News</h3>
+<img src="Screenshot2.png" width="1000">
+
+<h3>🔹 Fake News</h3>
+<img src="Screenshot3.png" width="1000">
+
+  </div>
+
   <h2>🧠 How It Works</h2>
   <ol>
     <li><strong>Encryption Page:</strong>
