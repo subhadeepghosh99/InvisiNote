@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Image Steganography Web App</title>
-</head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px;">
 
   <h1>🔐 Image Steganography Web App using AES Encryption</h1>
