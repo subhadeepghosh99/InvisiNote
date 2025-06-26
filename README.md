@@ -26,13 +26,13 @@
 
    <div class="section">
     <h2>🖼️ Screenshots</h2>
-  <h3>🔹 Home Page</h3>
+  <h3>🔹 Encryptor</h3>
 <img src="Screenshot1.png" width="1000">
 
-<h3>🔹 Real News</h3>
+<h3>🔹 Encryption Process</h3>
 <img src="Screenshot2.png" width="1000">
 
-<h3>🔹 Fake News</h3>
+<h3>🔹 Decryptor</h3>
 <img src="Screenshot3.png" width="1000">
 
   </div>
